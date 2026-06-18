@@ -20,7 +20,6 @@ evaluation/
 algorithm/
 ├── peak_detection.c
 ├── feature_extraction.c
-├── score_calculation.c
 └── ...
 ```
 
